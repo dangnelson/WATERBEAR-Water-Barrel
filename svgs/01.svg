@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 428 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>01</title>
     <desc>Created with Sketch.</desc>
     <g id="01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-58" transform="translate(0.000000, 1.000000)">
-            <polyline id="Fill-51" fill="#525252" points="366.0547 0.3725 427.0616 206.4263 0.7157 209.7529 53.5238 2.1599 366.0547 0.3725"></polyline>
-            <polyline id="Fill-52" fill="#6E6E6E" points="0.7157 209.7529 427.0616 206.4263 425.1322 219.9597 2.6193 223.3141 0.7157 209.7529"></polyline>
-            <path d="M0.7157,209.7529 L427.0616,206.4263" id="Stroke-53" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"></path>
-            <polyline id="Stroke-54" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="427.0616 206.4263 366.0547 0.3725 53.5238 2.1599 0.7157 209.7529"></polyline>
-            <path d="M2.6193,223.3141 L425.1322,219.9597" id="Stroke-55" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M427.0616,206.4263 L425.1322,219.9597" id="Stroke-56" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M0.7157,209.7529 L2.6193,223.3141" id="Stroke-57" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+        <rect fill="#EDEDED" x="0" y="0" width="400" height="300"></rect>
+        <g id="Group-58" transform="translate(29.000000, 61.000000)">
+            <polyline id="Fill-51" fill="#525252" points="292.501653 0.297667411 341.250157 164.956731 0.571891121 167.615041 42.7690178 1.72599152 292.501653 0.297667411"></polyline>
+            <polyline id="Fill-52" fill="#6E6E6E" points="0.571891121 167.615041 341.250157 164.956731 339.70844 175.771367 2.09299206 178.451892 0.571891121 167.615041"></polyline>
+            <path d="M0.571891121,167.615041 L341.250157,164.956731" id="Stroke-53" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-54" stroke="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" points="341.250157 164.956731 292.501653 0.297667411 42.7690178 1.72599152 0.571891121 167.615041"></polyline>
+            <path d="M2.09299206,178.451892 L339.70844,175.771367" id="Stroke-55" stroke="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M341.250157,164.956731 L339.70844,175.771367" id="Stroke-56" stroke="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M0.571891121,167.615041 L2.09299206,178.451892" id="Stroke-57" stroke="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
         </g>
     </g>
 </svg>
