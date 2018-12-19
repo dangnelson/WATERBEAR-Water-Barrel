@@ -69,46 +69,43 @@ You will want to clean the overflow screens periodically.
 
 | Item | Cost |
 |---|---|
-
-*Flat Shovel*
-*Level*
-*Tape Measurer*
-*Battery Powered Drill*
-*3" hole bit*.
-*Battery Powered Circular Saw*
-*Speed Square*
-*Battery Powered Driver*
-*59/64 Drill Bit*
-*Battery Powered Drill*
-*3/4 in. Pipe Tap*
-*10" Adjustable Wrench*
-*59/64 Drill Bit*
-*Battery Powered Drill*
-*3/4 in. Pipe Tap*
-*10" Adjustable Wrench*
+| Flat Shovel |
+| Level |
+| Tape Measurer |
+| Battery Powered Drill |
+| 3" hole bit |
+| Battery Powered Circular Saw |
+| Speed Square |
+| Battery Powered Driver |
+| 59/64 Drill Bit |
+| Battery Powered Drill |
+| 3/4 in. Pipe Tap |
+| 10" Adjustable Wrench |
+| 59/64 Drill Bit |
+| Battery Powered Drill |
+| 3/4 in. Pipe Tap |
+| 10" Adjustable Wrench |
 
 
 ## Supplies
 
 | Item | Use | # | Cost | Total |
 |---|---|---|---|---|
-
-
-*Crushed Stone*
-*Cinder Blocks*
-*Paver stones*
-*Barrel*
-*3” Round 75 degree downspout corner*
-*2x4x8*
-*2.5" Stainless Steel Screws*
-*2'x8' Corrugated Galvanized Steel Roof Panel*
-*1 1/4" Wafer-Head Screws*
-*Brass Hose Spigot*
-*Brass Garden Hose Adapter*
-*Brass Garden Hose Wye*
-*Brass Garden Hose Barb Adapter*
-*Black Rubber Washer with Screen*
-*Leader Hose*
+| Crushed Stone |
+| Cinder Blocks |
+| Paver stones |
+| Barrel |
+| 3” Round 75 degree downspout corner |
+| 2x4x8 |
+| 2.5" Stainless Steel Screws |
+| 2'x8' Corrugated Galvanized Steel Roof Panel |
+| 1 1/4" Wafer-Head Screws |
+| Brass Hose Spigot |
+| Brass Garden Hose Adapter |
+| Brass Garden Hose Wye |
+| Brass Garden Hose Barb Adapter |
+| Black Rubber Washer with Screen |
+| Leader Hose |
 
 ## Expansion
 
