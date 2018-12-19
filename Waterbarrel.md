@@ -1,22 +1,22 @@
-# Garden Waterbarrel
+# Garden Water Barrel
 ![](svgs/00.svg)
 
-This design is for watering plants, not for drinking water. It's free of paint and can be built using only battery powered tools.
+This design is for strain water for watering plants, not for drinking. It's free of paint and can be built using only battery powered tools.
 
 ### Plastic Free - In Progress
 Wooden barrels are used rather than the common blue or white plastic drums. The washers are black rubber. The spigot and vent are made of brass.
 
 The only plastic in use in this design currently is the vinyl hose. We are seeking an alternative to this.
 
-## 1. Crushed Stone
+## 1. Gravel Base
 ![](svgs/01.svg)
 
-Using a *Flat Shovel* clear a 2' x 2' pad where you'd like the barrel to be. Lay an inch of *Crushed Stone* down in the clearing.
+Using a *Flat Shovel* clear a 2' x 2' pad where you'd like the barrel to be. Lay a layer of *All Purpose Gravel* down in the clearing to help you level the blocks in the next step.
 
-## 2. Raiser
+## 2. Riser
 ![](svgs/02.svg)
 
-A raiser is used to give you enough space to fit a watering can underneath.
+A riser is used to give you enough space to fit a watering can underneath.
 
 Place four *Cinder Blocks* down as shown to form a 2' x 2' square and *Level* each block.
 
@@ -27,7 +27,7 @@ Lay four 1' x 1' *Paver Stones* on top to create a finished surface.
 ## 3. Barrel
 ![](svgs/03b.svg)
 
-Use a *Tape Measurer* to mark the center of the top of the *Barrel*. Drill a 3 inch hole using a *Battery Powered Drill* loaded with a *3" hole bit*.
+Use a *Tape Measurer* to mark the center of the top of the *Barrel*. Drill a 3 inch hole using a *Battery Powered Drill* loaded with a *3" hole saw* attached to a *Hole saw bit*.
 
 ## 4. Downspout Connection
 ![](svgs/04.svg)
@@ -65,47 +65,47 @@ Finally screw the *Leader Hose* onto the overflow adapter with a rubber washer w
 
 You will want to clean the overflow screens periodically.
 
-## Tools
+## New Tools
 
 | Item | Cost |
 |---|---|
-| Flat Shovel |
-| Level |
-| Tape Measurer |
-| Battery Powered Drill |
-| 3" hole bit |
-| Battery Powered Circular Saw |
-| Speed Square |
-| Battery Powered Driver |
-| 59/64 Drill Bit |
-| Battery Powered Drill |
-| 3/4 in. Pipe Tap |
-| 10" Adjustable Wrench |
-| 59/64 Drill Bit |
-| Battery Powered Drill |
-| 3/4 in. Pipe Tap |
-| 10" Adjustable Wrench |
+| 3" hole saw | 13.47 |
+| Hole saw bit | 16.97 |
+| 3/4 in. Pipe Tap & 59/64 Drill Bit Kit | 32.04 |
+| 10" Adjustable Wrench | 14.97 |
+| **Total** | **77.45** |
 
+## Existing Tools
+
+| Item | Guide |
+|---|---|
+| Flat Shovel | Shed |
+| Level | Shed |
+| Tape Measurer | Shed |
+| Battery Powered Drill | Shed |
+| Battery Powered Circular Saw | Shed |
+| Speed Square | Shed |
+| Battery Powered Driver | Shed |
 
 ## Supplies
 
 | Item | Use | # | Cost | Total |
 |---|---|---|---|---|
-| Crushed Stone |
-| Cinder Blocks |
-| Paver stones |
-| Barrel |
-| 3” Round 75 degree downspout corner |
-| 2x4x8 |
-| 2.5" Stainless Steel Screws |
-| 2'x8' Corrugated Galvanized Steel Roof Panel |
-| 1 1/4" Wafer-Head Screws |
-| Brass Hose Spigot |
-| Brass Garden Hose Adapter |
-| Brass Garden Hose Wye |
-| Brass Garden Hose Barb Adapter |
-| Black Rubber Washer with Screen |
-| Leader Hose |
+| All Purpose Gravel | Riser | 1 50 lb Bag | | 3.85 |
+| Cinder Blocks | Riser | 4 | 1.65 | 6.60 |
+| 12"x12" Paver stones | Riser | 4 | 1.52 | 6.08 |
+| Used Oak Barrel | | 1 | | 100.00 |
+| 3” Round 75 degree downspout corner | Downspout Connection | 1 | | 10.73 |
+| 2x4x8 | Roof | 1 | | 3.13
+| 2.5" Stainless Steel Screws | Roof | 15 pack |   | 7.79
+| 2'x 8' Corrugated Galvanized Steel Roof Panel | Roof | 1 | | 34.35 |
+| 1 1/4" Wafer-Head Screws | Roof | 50 Pack |  | 2.21
+| Brass Hose Spigot / Bibb | Spigot | 1 | | 8.58
+| Brass Garden Hose Adapter | Overflow | 1 | 
+| Brass Garden Hose Wye | Overflow | 1 | 
+| Brass Garden Hose Barb Adapter | Overflow | 1 | 
+| Black Rubber Washer with Screen | Overflow | 1 | 
+| Leader Hose | Overflow | 1 | 
 
 ## Expansion
 
