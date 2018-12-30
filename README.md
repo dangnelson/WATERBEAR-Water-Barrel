@@ -4,7 +4,7 @@
 This design is for watering plants, not for potable drinking storage. It's free of paint and can be built using only battery powered tools.
 
 | | Tools | Supplies | Total |
-|---|---|---|
+|---|---|---|---|
 | First Barrel | 77.45 | 222.33 | 299.78 |
 | Add a Barrel | -- | 158.84 | 158.84 |
 
