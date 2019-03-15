@@ -1,15 +1,4 @@
-# Water Barrel
-![](svgs/00.svg)
-
-This design is for watering plants, not for potable drinking storage. It's free of paint and can be built using only battery powered tools.
-
-| | Tools | Supplies | Total |
-|---|---|---|---|
-| First Barrel | 77.45 | 222.33 | 299.78 |
-| Add a Barrel | -- | 158.84 | 158.84 |
-
-### Plastic Free Goal
-Wooden barrels are used rather than the common blue or white plastic drums, the washers are black rubber, and the spigot and overflow are made of brass. The only plastic in use in this design currently is the vinyl hose, which we hope to solve for soon.
+# First Barrel - $300
 
 ## 1. Gravel Base
 ![](svgs/01.svg)
@@ -127,46 +116,4 @@ This guide assumes you have a basic tool set.
 | Hose Washers with Screen | Overflow | 2 Pack | | 2.38 |
 | Leader Hose | Overflow | 1 | | 7.97 |
 | **Total** | |||**222.33**
-
-# Second Downspout Connection - $11  
-
-![](svgs/08.svg)
-
-A second downspout is needed from some designs where you need to run two sides of a small roof into the same barrel.
-
-## Supplies for Second Downspout
-
-| Item | Use | # | Cost | Total |
-|---|---|---|---|---|
-| 3” Round 75 degree downspout corner | Downspout Connection | 1 | | 10.73 |
-
-# Add a Barrel - $159
-
-![](svgs/09.svg)
-
-To expand storage capacity you can daisy chain barrels by adding a *Brass Garden Hose Adapter* half an inch above the second ring from the top on the side of a barrel. Attach the second barrel with an *8” Linking Hose”. The second barrel is the same design without the downspout hole or overflow needed.
-
-## Existing Supplies from First Barrel
-
-You should have enough steel roofing to make 3 more barrels.
-
-| Item | Use |
-|---|---|
-| 2'x 8' Corrugated Galvanized Steel Roof Panel | Roof |
-| 1 1/4" Wafer-Head Screws | Roof |
-
-## Supplies for Adding a Barrel
-
-| Item | Use | # | Cost | Total |
-|---|---|---|---|---|
-| 8 inch Linking Hose | Linking | | | 12.95 |
-| Brass Garden Hose Adapter | Overflow | 2 | 4.93 | 9.86 |
-| All Purpose Gravel | Riser | 1 50 lb Bag | | 3.85 |
-| Cinder Blocks | Riser | 4 | 1.65 | 6.60 |
-| 12"x12" Paver stones | Riser | 4 | 1.52 | 6.08 |
-| Used Oak Barrel | | 1 | | 100.00 |
-| 2x4x8 | Roof | 1 | | 3.13
-| 2.5" Stainless Steel Screws | Roof | 15 pack |   | 7.79
-| Brass Hose Spigot / Bibb | Spigot | 1 | | 8.58 |
-| **Total** | |||**158.84**
 	 
