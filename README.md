@@ -1,4 +1,4 @@
-![](svgs/00.svg)
+![Finished Barrel](svgs/00.svg)
 
 This design is for watering plants, not for potable drinking storage. It's free of paint and can be built using only battery powered tools.
 
